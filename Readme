@@ -1,0 +1,7 @@
+Put the .py and .xml file in the same location.
+
+Then chamge the path in command line to the location where you've put the files.
+
+Then execute the following command on coomand line-
+python face_detector.py
+
